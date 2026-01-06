@@ -1,16 +1,16 @@
-# memory_calculate
+# Memory Calculate
 
-##Add student
-![Output ](add.png)
+## Add Student
+![Add Student](add.png)
 
-##Display student
-![Output ](display.png)
+## Display Students
+![Display Students](display.png)
 
-##Search student
-![Output ](search.png)
+## Search Student
+![Search Student](search.png)
 
-##Remove student
-![Output ](remove.png)
+## Remove Student
+![Remove Student](remove.png)
 
-##Exit
-![Output ](exit.png)
+## Exit
+![Exit](exit.png)
